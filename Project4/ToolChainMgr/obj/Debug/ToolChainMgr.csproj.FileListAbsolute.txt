@@ -1,0 +1,13 @@
+C:\Learning\Syracuse\SMA\Assignments\Project4\ToolChainMgr\bin\Debug\ToolChainMgr.exe.config
+C:\Learning\Syracuse\SMA\Assignments\Project4\ToolChainMgr\bin\Debug\ToolChainMgr.exe
+C:\Learning\Syracuse\SMA\Assignments\Project4\ToolChainMgr\bin\Debug\ToolChainMgr.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.exe
+C:\Learning\Syracuse\SMA\Assignments\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\bin\Debug\ToolChainMgr.exe.config
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\bin\Debug\ToolChainMgr.exe
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\bin\Debug\ToolChainMgr.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.csprojResolveAssemblyReference.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.exe
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\ToolChainMgr\obj\Debug\ToolChainMgr.pdb

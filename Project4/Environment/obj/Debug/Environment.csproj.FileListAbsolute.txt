@@ -1,0 +1,14 @@
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\bin\Debug\Environment.dll.config
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\bin\Debug\Environment.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\bin\Debug\Environment.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\obj\Debug\Environment.csprojResolveAssemblyReference.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\obj\Debug\Environment.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4\Environment\obj\Debug\Environment.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\bin\Debug\Environment.dll.config
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\bin\Debug\Environment.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\bin\Debug\Environment.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\obj\Debug\Environment.csprojResolveAssemblyReference.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\obj\Debug\Environment.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\Environment\obj\Debug\Environment.pdb

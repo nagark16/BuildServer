@@ -1,0 +1,4 @@
+Building for BuildFail
+========================================
+directories\build\builder0\BuildFail\TestDriver.cs(19,19): error CS1002: ; expected
+

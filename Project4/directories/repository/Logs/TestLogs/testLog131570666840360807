@@ -1,0 +1,28 @@
+
+Testing BuildSucessTestFail.dll
+=========================================
+
+Invoking......
+	Error: Exception has been thrown by the target of an invocation.
+
+Testing AllSuccess.dll
+=========================================
+
+Invoking......
+
+  TestedOne here
+  TestedTwo herebefore checking result return code
+	Test Passed.
+
+Testing HelloWorldJava.jar
+=========================================
+
+  TestDriver running:
+
+  TestedOne here
+
+  TestedTwo here
+
+
+
+	Test passed

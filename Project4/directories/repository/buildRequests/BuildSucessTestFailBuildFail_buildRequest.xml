@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildRequest>
+  <author>naga</author>
+  <dateTime>12/3/2017 8:23:54 AM</dateTime>
+  <projects>
+    <project>
+      <projectName>BuildSucessTestFail</projectName>
+      <dependencies>TestDriver.cs</dependencies>
+      <dependencies>TestedOne.cs</dependencies>
+      <dependencies>TestedTwo.cs</dependencies>
+    </project>
+    <project>
+      <projectName>BuildFail</projectName>
+      <dependencies>TestDriver.cs</dependencies>
+      <dependencies>TestedOne.cs</dependencies>
+      <dependencies>TestedTwo.cs</dependencies>
+    </project>
+  </projects>
+</buildRequest>

@@ -1,0 +1,13 @@
+C:\Learning\Syracuse\SMA\Assignments\Project4\IMessagePassingCommService\bin\Debug\IMessagePassingCommService.dll.config
+C:\Learning\Syracuse\SMA\Assignments\Project4\IMessagePassingCommService\bin\Debug\IMessagePassingCommService.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4\IMessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\bin\Debug\IMessagePassingCommService.dll.config
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\bin\Debug\IMessagePassingCommService.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.dll
+C:\Learning\Syracuse\SMA\Assignments\Project4Submission\Project4\IMessagePassingCommService\obj\Debug\IMessagePassingCommService.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<buildRequest>
+  <author>naga</author>
+  <dateTime>12/3/2017 5:38:47 PM</dateTime>
+  <projects>
+    <project>
+      <projectName>AllSuccess</projectName>
+      <dependencies>TestDriver.cs</dependencies>
+      <dependencies>TestedOne.cs</dependencies>
+      <dependencies>TestedTwo.cs</dependencies>
+    </project>
+    <project>
+      <projectName>HelloWorldJava</projectName>
+      <dependencies>TestDriver.java</dependencies>
+      <dependencies>TestedOne.java</dependencies>
+      <dependencies>TestedTwo.java</dependencies>
+    </project>
+  </projects>
+</buildRequest>
